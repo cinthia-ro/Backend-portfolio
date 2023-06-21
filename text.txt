@@ -1,0 +1,5 @@
+username: rosetsapze
+Password: Gf2KGVyoMTFXm9o9
+mongodb+srv://rosetsapze:Gf2KGVyoMTFXm9o9@reactbackendportfolio.u3ts6jb.mongodb.net/
+mongodb+srv://rosetsapze:<password>@reactbackendportfolio.u3ts6jb.mongodb.net/
+mongodb+srv://rosetsapze:Gf2KGVyoMTFXm9o9@reactbackendportfolio.u3ts6jb.mongodb.net/?retryWrites=true&w=majority
